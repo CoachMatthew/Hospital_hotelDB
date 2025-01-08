@@ -1,6 +1,5 @@
 # Hospital_hotelDB
 
-# Project Overview
 The Hospital Hotel Analysis project aims to provide insights into the operations of a hospital hotel, focusing on guest bookings, room occupancy, and revenue generation. The project involves analyzing a dataset containing information on guest bookings, room types, and payment details. 
 # Problem Statement
 1.	Fetch guests who stayed for the same number of days.
